@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m David
+# 👋 Hi there, I’m Steven
 
 ## I’m currently working as iOS Software Engineer at [IntellectSoft](https://www.intellectsoft.net/)
 
