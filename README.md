@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Steven
 
-## I’m currently working as iOS Software Engineer at [IntellectSoft](https://www.intellectsoft.net/)
+## I’m an iOS Software Engineer.
 
 ## 😻 I love:
 
