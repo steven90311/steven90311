@@ -9,11 +9,6 @@
   - Playing Table Tennis and Guitar
   - Learning new about IT
 
-## 📫 How to reach me: 
-
-  - davidrale311@gmail.com
-  - Discord( ddr311#4416 )
-
 ## 🛠 Tools that I use:
 
   - Xcode
